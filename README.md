@@ -1,6 +1,6 @@
 <h1>NeighborhoodMap </h1>
 
-This project is built according to the project rubric of project Neighborhood Map in the nanodegree Front-End web developer by Udacity
+This project is built according to the project rubric of project Neighborhood Map in Front-End Web Developer Nanodegree by Udacity
 
 map show places in Egypt 
 
